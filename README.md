@@ -1,1 +1,3 @@
 # dalehagglund.github.io
+
+So far, an empty site...
